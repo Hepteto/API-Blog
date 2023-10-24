@@ -20,6 +20,7 @@ Cria uma nova postagem no blog com base nos dados fornecidos no corpo da solicit
 
 > [https://api-blog-hepteto.vercel.app/posts](https://api-blog-hepteto.vercel.app/posts)
 
+Exemplo de valor:
 
     {
         "title": "Título do Post",
@@ -55,8 +56,6 @@ Retorna os detalhes de uma postagem específica com base no `id`:
 
 > [https://api-blog-hepteto.vercel.app/posts/6529541abdf3126d15dfd405](https://api-blog-hepteto.vercel.app/posts/6529541abdf3126d15dfd405)
 
-Exemplo de valor:
-
     [
         {
             "_id":"6529541abdf3126d15dfd405",
@@ -71,6 +70,8 @@ Exemplo de valor:
 Atualiza uma postagem existente com base no `id` com os dados fornecidos no corpo da solicitação:
 
 > [https://api-blog-hepteto.vercel.app/posts/6529541abdf3126d15dfd405](https://api-blog-hepteto.vercel.app/posts/6529541abdf3126d15dfd405)
+
+Exemplo de valor:
 
     {
         "title": "Título do Post a ser atualizado",
