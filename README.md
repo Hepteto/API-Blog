@@ -5,7 +5,7 @@
 Uma API simples RESTful com CRUD que fornece dados JSON de título e texto de um post.
 
 :globe_with_meridians: Site de demonstração: https://consumo-api-blog.vercel.app/
-<br>
+
 :globe_with_meridians: Documentação: https://app.swaggerhub.com/apis-docs/HEPTETOOFICIAL/BLOG_HEPTETO/1.0#/
 
 ## Host de produção
@@ -54,8 +54,8 @@ Retorna uma lista de todas as postagens no blog:
 Retorna os detalhes de uma postagem específica com base no `id`:
 
 > [https://api-blog-hepteto.vercel.app/posts/6529541abdf3126d15dfd405](https://api-blog-hepteto.vercel.app/posts/6529541abdf3126d15dfd405)
->
-> Exemplo de valor:
+
+Exemplo de valor:
 
     [
         {
