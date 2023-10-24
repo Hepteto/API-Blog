@@ -20,7 +20,7 @@ Cria uma nova postagem no blog com base nos dados fornecidos no corpo da solicit
 
 > [https://api-blog-hepteto.vercel.app/posts](https://api-blog-hepteto.vercel.app/posts)
 
-Exemplo de valor:
+- Exemplo de valor:
 
     {
         "title": "Título do Post",
