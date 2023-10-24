@@ -53,7 +53,7 @@ Retorna uma lista de todas as postagens no blog:
 
 Retorna os detalhes de uma postagem específica com base no `id`:
 
-> [https://api-blog-hepteto.vercel.app/posts/6529541abdf3126d15dfd405](https://api-blog-hepteto.vercel.app/posts/6529541abdf3126d15dfd405)<
+> [https://api-blog-hepteto.vercel.app/posts/6529541abdf3126d15dfd405](https://api-blog-hepteto.vercel.app/posts/6529541abdf3126d15dfd405)
 
 Exemplo de valor:
 
