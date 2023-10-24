@@ -19,8 +19,8 @@ Uma API simples RESTful com CRUD que fornece dados JSON de título e texto de um
 Cria uma nova postagem no blog com base nos dados fornecidos no corpo da solicitação:
 
 > [https://api-blog-hepteto.vercel.app/posts](https://api-blog-hepteto.vercel.app/posts)
-
-- Exemplo de valor:
+<br />
+Exemplo de valor:
 
     {
         "title": "Título do Post",
@@ -70,7 +70,7 @@ Retorna os detalhes de uma postagem específica com base no `id`:
 Atualiza uma postagem existente com base no `id` com os dados fornecidos no corpo da solicitação:
 
 > [https://api-blog-hepteto.vercel.app/posts/6529541abdf3126d15dfd405](https://api-blog-hepteto.vercel.app/posts/6529541abdf3126d15dfd405)
-
+<br />
 Exemplo de valor:
 
     {
