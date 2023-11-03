@@ -12,6 +12,9 @@ Uma API simples RESTful com CRUD que fornece dados JSON de título e texto de um
 
 [https://api-blog-hepteto.vercel.app](https://api-blog-hepteto.vercel.app)
 
+## Stacks
+![Stacks](https://skillicons.dev/icons?i=nodejs,react,mongodb,vercel&perline=4)
+
 ## API
 
 ### `POST /posts`
